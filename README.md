@@ -1,3 +1,4 @@
 # hello-world
-Test
-Adding content to change this version of readme file
+Working as a technical content editor and freelance writer
+Interested in data visualization, documentation, and information design
+Learning shell scripting and python
